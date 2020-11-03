@@ -1,0 +1,18 @@
+
+h1 {
+    font-size: 15pt;
+    color: #00009C;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span {
+    border: 4px dashed #00009C;
+    padding: 10px;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
